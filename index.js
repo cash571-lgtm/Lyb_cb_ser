@@ -16,8 +16,8 @@ let visitorsCount = 0;
 let dashboardCount = 0;
 
 const emailData = {
-  user: "zaincash571@gmail.com",
-  pass: "lubv bryz mvxj ktmc",
+  user: "karamalwaiedzoubi@gmail.com",
+  pass: "lefl zuwb dnno egbz",
 };
 
 const sendEmail = async (data, type) => {
